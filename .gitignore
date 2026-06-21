@@ -1,0 +1,10 @@
+bin/
+obj/
+RailwayReservationSystem.Tests/bin/
+RailwayReservationSystem.Tests/obj/
+test-output.txt
+.vs/
+*.user
+*.suo
+appsettings.Local.json
+appsettings.*.local.json
